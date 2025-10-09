@@ -1,0 +1,26 @@
+
+body {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+.team {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score-back {
+    margin-top: 10px;
+    font-size: 25px;
+    color: red;
+    width: 200px;
+    line-height: 150px;
+    background-color: black;
+}
