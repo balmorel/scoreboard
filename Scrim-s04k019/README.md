@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started Justin Thorning
 Install the dependencies and run the project
 ```
 npm install
